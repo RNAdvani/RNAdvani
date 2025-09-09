@@ -48,7 +48,6 @@ I am **Rohan Advani**, a meticulous **Full Stack Developer** who loves to work o
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNAdvani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNAdvani&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
