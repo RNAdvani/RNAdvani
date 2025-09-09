@@ -162,5 +162,5 @@ I am **Rohan Advani**, a meticulous **Full Stack Developer** who loves to work o
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohanadvani/rohanadvani/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RNAdvani/RNAdvani/output/snake.svg" alt="Snake animation" />
 </div>
